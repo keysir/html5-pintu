@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+*{padding: 0;margin: 0;}
+.btn_s{position: absolute; width: 640px;z-index: 30;display: block;}
+.btn_2{position: absolute; top:999px; width: 640px; height:100px;z-index: 30; display:block; }
+.btn{position: absolute;top: 685px;left: 208px;  width: 230px; display: block;z-index:33;}
+#canvas{display: none;}
+#holder{width:136px; height:65px;z-index: 20;position: absolute;top: 15px;left: 175px;background-image: url("../images/timebg.png");
+       padding-left: 80px;
+    padding-right:80px;
+    padding-top: 20px;
+        }
+.cntSeparator{display:block;color:#fff;font-size:30px;font-weight:800;text-align:center;width:20px; }
+.asd{}
